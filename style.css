@@ -42,7 +42,7 @@
 blockquote {
   font-family: 'Abril Fatface', cursive;
   font-size: 35px;
-  background: grey;
+  background: darkgray;
   color: white;
   padding: 15px;
   display: flex;
@@ -53,7 +53,7 @@ blockquote::before {
 }
 
 h4 {
-  font-style: oblique;
+  font-style: italic;
 }
 
 li {
